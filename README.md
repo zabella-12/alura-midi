@@ -3,6 +3,8 @@
 
 Projeto desenvolvido durante o curso [JavaScript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas), da plataforma [Alura Cursos Online](https://www.alura.com.br/).
 
+<img src="images/layout-projeto.PNG"></img>
+
 
 
 ## Aprendizados
